@@ -1,9 +1,7 @@
 # Introducción a los lenguajes de marcas y HTML
 
 > **Módulo:** Lenguajes de Marcas y Sistemas de Gestión de Información  
-> **Nivel:** 1.º de Desarrollo de Aplicaciones Web (DAW)  
 > **Unidad:** Introducción básica, etiquetas HTML, semántica y diseño responsive  
-> **Duración orientativa:** 3 sesiones
 
 ## Objetivos de aprendizaje
 
@@ -435,7 +433,7 @@ Con un ancho de viewport superior a 600 píxeles, el contenedor tiene dos column
 
 ---
 
-## 9. Actividad para el alumnado
+## 9. Actividad:
 
 **Título:** Descubriendo HTML: estructura, semántica y diseño responsive  
 **Duración orientativa:** 50–60 minutos  
@@ -490,7 +488,7 @@ Con un ancho de viewport superior a 600 píxeles, el contenedor tiene dos column
 
 ---
 
-## 10. Glosario básico
+## 10. Glosario:
 
 | Término | Definición |
 |---|---|
@@ -524,8 +522,8 @@ Con un ancho de viewport superior a 600 píxeles, el contenedor tiene dos column
 
 | Sesión | Contenidos | Producto o evidencia |
 |---|---|---|
-| **1** | Lenguajes de marcas, HTML, estructura, etiquetas y atributos | Identificación de elementos y pequeños ejemplos |
-| **2** | Clasificación de etiquetas, HTML semántico y accesibilidad | Esquema semántico de una página |
-| **3** | Viewport, imágenes responsive, CSS y media queries | `index.html` funcional y personalizado |
+| **I** | Lenguajes de marcas, HTML, estructura, etiquetas y atributos | Identificación de elementos y pequeños ejemplos |
+| **II** | Clasificación de etiquetas, HTML semántico y accesibilidad | Esquema semántico de una página |
+| **III** | Viewport, imágenes responsive, CSS y media queries | `index.html` funcional y personalizado |
 
 > **Para el repositorio:** si este archivo se renombra a `README.md` y se coloca en la raíz de un repositorio de GitHub, su contenido aparecerá automáticamente en la portada del repositorio. GitHub también representa las tablas, los diagramas Mermaid y los bloques desplegables incluidos aquí.
