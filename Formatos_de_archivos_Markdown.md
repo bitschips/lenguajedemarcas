@@ -14,7 +14,7 @@
 - [Sintaxis y marcas de Markdown](#sintaxis-y-marcas-de-markdown)
 - [Tareas:](#tareas)
 - [Referencias](#referencias)
-- [Editores online Markdown:](#editores-online-markdown)
+- [Editores online](#editores-online-markdown)
 
 ## Un poco de historia
 A principios de los años 2000, plataformas como Blogger ya permitían publicar artículos en Internet sin necesidad de programar páginas HTML. Sin embargo, algunos autores, especialmente desarrolladores y escritores técnicos, preferían redactar sus textos con editores externos y controlar directamente el formato de sus publicaciones.
@@ -242,15 +242,12 @@ Copia el siguiente código en alguno de los visores de Markdown online y comprue
 
 [Markdown tutorial](https://commonmark.org/help/)
 
-## Editores online Markdown:
+## Editores online
 - [https://dillinger.io/](https://dillinger.io/)
-
 - [https://spec.commonmark.org/dingus/](https://spec.commonmark.org/dingus/)
-
 - [https://stackedit.io/app](https://stackedit.io/app)
-
 - [https://www.w3schools.com/tools/tool_markdown.php](https://www.w3schools.com/tools/tool_markdown.php)
 
-Investiga GitHub Flavored Markdown
+> Investiga GitHub Flavored Markdown
 
 ## [Repaso examen](https://chatgpt.com/share/6af45a5a-9f2c-83eb-9eaa-ac5162c8a65b)
