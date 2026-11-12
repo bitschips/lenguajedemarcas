@@ -1,6 +1,6 @@
 # Introducción a Markdown
 
-<img src="imagenes/imagen_01.png" width="300" alt="Ilustración 1">
+<img src="imagenes/imagen_01.png" width="100" alt="Ilustración 1">
 
 ## Índice
 
@@ -31,15 +31,15 @@ Por tanto, **Markdown no surgió para hacer posible la publicación de blogs sin
 - **Finales de los 2004**, se hace muy popular: Servicios como GitHub incorporan Markdown para documentación, archivos README.md
 - **CommonMark** **(2014):** Se desarrolla una especificación más precisa para reducir las diferencias entre implementaciones de Markdown.
 
-<img src="imagenes/imagen_03.png" width="300" alt="Ilustración 3">
+<img src="imagenes/imagen_03.png" width="500" alt="Ilustración 3">
 
 CommonMark es una especificación de Markdown creada en 2014 para establecer reglas claras y comunes sobre cómo interpretar los documentos Markdown, mejorando la especificación original de 20024.
 
 Markdown evoluciona hasta nuestros días:
-<img src="imagenes/imagen_04.png" width="300" alt="Ilustración 4">
+<img src="imagenes/imagen_04.png" width="500" alt="Ilustración 4">
 
 Características Markdown original y versiones Github GFM:
-<img src="imagenes/imagen_05.png" width="300" alt="Ilustración 5">
+<img src="imagenes/imagen_05.png" width="500" alt="Ilustración 5">
 
 **Actualmente:** Markdown se utiliza en documentación de software, repositorios, cuadernos de notas, sistemas de publicación, herramientas de desarrollo y aplicaciones de IA.
 
