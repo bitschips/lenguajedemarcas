@@ -27,7 +27,7 @@ Inicialmente, Markdown se distribuyó como una herramienta escrita en Perl que p
 
 Por tanto, **Markdown no surgió para hacer posible la publicación de blogs sin conocimientos de programación**, algo que Blogger ya facilitaba, sino para ofrecer una alternativa más cómoda, legible y flexible a la escritura directa en HTML.
 - **Antecedentes** **(2003)**: HTML, Setext, Textile, los sistemas wiki y los correos electrónicos en texto plano aportan distintas ideas de marcado.
-- **Nacimiento de Markdown** **(2004):** ****Publicación versiones iniciales, lanzamiento de Markdown 1.0 en agosto.
+- **Nacimiento de Markdown** **(2004):** Publicación versiones iniciales, lanzamiento de Markdown 1.0 en agosto.
 - **Finales de los 2004**, se hace muy popular: Servicios como GitHub incorporan Markdown para documentación, archivos README.md
 - **CommonMark** **(2014):** Se desarrolla una especificación más precisa para reducir las diferencias entre implementaciones de Markdown.
 
@@ -183,7 +183,7 @@ La siguiente imagen puede ayudarte a entender el objetivo de cada uno: **Markdow
 - HTML: lenguaje de marcado para definir la estructura y el significado del contenido de las páginas web.
 - CSS: lenguaje de hojas de estilo para controlar la apariencia y distribución visual de páginas web.
 
-**Nota:** ****CSS no es un lenguaje de marcado ni un lenguaje de programación de propósito general. Es un lenguaje declarativo de estilos.
+**Nota:** CSS no es un lenguaje de marcado ni un lenguaje de programación de propósito general. Es un lenguaje declarativo de estilos.
 
 ![Ilustración 22](imagenes/imagen_22.png)
 
@@ -211,7 +211,7 @@ GitHub también filtra y sanea el HTML generado, por lo que aceptar una etiqueta
 
 - [Documentación de referencia GitHub Flavored Markdown](https://github.github.com/gfm/?utm_source=chatgpt.com)
 
-**Recomendación final:** ****Distingue entre la sintaxis básica de Markdown, las extensiones de GitHub (GFM) y las etiquetas HTML adicionales. Markdown puede funcionar de forma diferente según el programa que lo interprete.
+**Recomendación final:** Distingue entre la sintaxis básica de Markdown, las extensiones de GitHub (GFM) y las etiquetas HTML adicionales. Markdown puede funcionar de forma diferente según el programa que lo interprete.
 
 ## Tareas:
 Copia el siguiente código en alguno de los visores de Markdown online y comprueba que funciona correctamente, incluye enlaces también con etiquetas HTML `<a href=””>Link</a>` y verifica que los enlaces funcionan.
@@ -227,6 +227,6 @@ Copia el siguiente código en alguno de los visores de Markdown online y comprue
 - [https://stackedit.io/app](https://stackedit.io/app)
 - [https://www.w3schools.com/tools/tool_markdown.php](https://www.w3schools.com/tools/tool_markdown.php)
 
-> Investiga GitHub Flavored Markdown
+> Opcional: Investiga GitHub Flavored Markdown
 
 ## [Repaso examen](https://chatgpt.com/share/6af45a5a-9f2c-83eb-9eaa-ac5162c8a65b)
