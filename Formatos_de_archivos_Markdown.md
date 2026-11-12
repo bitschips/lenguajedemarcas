@@ -23,7 +23,7 @@ Uno de ellos era John Gruber, creador del blog Daring Fireball. Gruber utilizaba
 
 Inicialmente, Markdown se distribuyó como una herramienta escrita en Perl que podía instalarse como complemento de plataformas como Movable Type y Blosxom. Al publicar un artículo, el sistema transformaba automáticamente el texto Markdown en HTML.
 
-<img src="imagenes/imagen_02.png" width="300" alt="Ilustración 2">
+<img src="imagenes/imagen_02.png" width="80%" alt="Ilustración 2">
 
 Por tanto, **Markdown no surgió para hacer posible la publicación de blogs sin conocimientos de programación**, algo que Blogger ya facilitaba, sino para ofrecer una alternativa más cómoda, legible y flexible a la escritura directa en HTML.
 - **Antecedentes** **(2003)**: HTML, Setext, Textile, los sistemas wiki y los correos electrónicos en texto plano aportan distintas ideas de marcado.
@@ -31,23 +31,23 @@ Por tanto, **Markdown no surgió para hacer posible la publicación de blogs sin
 - **Finales de los 2004**, se hace muy popular: Servicios como GitHub incorporan Markdown para documentación, archivos README.md
 - **CommonMark** **(2014):** Se desarrolla una especificación más precisa para reducir las diferencias entre implementaciones de Markdown.
 
-<img src="imagenes/imagen_03.png" width="500" alt="Ilustración 3">
+<img src="imagenes/imagen_03.png" width="80%" alt="Ilustración 3">
 
 CommonMark es una especificación de Markdown creada en 2014 para establecer reglas claras y comunes sobre cómo interpretar los documentos Markdown, mejorando la especificación original de 20024.
 
 Markdown evoluciona hasta nuestros días:
-<img src="imagenes/imagen_04.png" width="500" alt="Ilustración 4">
+<img src="imagenes/imagen_04.png" width="80%" alt="Ilustración 4">
 
 Características Markdown original y versiones Github GFM:
-<img src="imagenes/imagen_05.png" width="500" alt="Ilustración 5">
+<img src="imagenes/imagen_05.png" width="80%" alt="Ilustración 5">
 
 **Actualmente:** Markdown se utiliza en documentación de software, repositorios, cuadernos de notas, sistemas de publicación, herramientas de desarrollo y aplicaciones de IA.
 
 Su principal aportación consistió en separar la escritura del contenido de su representación final en una página web.
 
-<img src="imagenes/imagen_06.png" width="300" alt="Ilustración 6">
+<img src="imagenes/imagen_06.png" width="80%" alt="Ilustración 6">
 
-<img src="imagenes/imagen_07.png" width="300" alt="Ilustración 7">
+<img src="imagenes/imagen_07.png" width="80%" alt="Ilustración 7">
 
 En aquel tiempo, una persona que quería publicar un artículo en Internet tenía principalmente dos opciones:
 
@@ -58,7 +58,7 @@ En aquel tiempo, una persona que quería publicar un artículo en Internet tení
   - Eran editores que te permitían escribir texto y convertirlo a HTML
   - Uno de los más utilizados era Dreamweaver y otros como:
 
-<img src="imagenes/imagen_08.png" width="300" alt="Ilustración 8">
+<img src="imagenes/imagen_08.png" width="80%" alt="Ilustración 8">
 
 Ambas opciones funcionaban, pero había un problema: la estructura técnica del documento podía distraer al autor de lo más importante, que era escribir su contenido.
 
@@ -69,11 +69,11 @@ Ejemplo: imaginemos que en 2003 un profesor quiere publicar lo siguiente:
 
 Para hacerlo directamente en HTML, podría escribir:
 
-<img src="imagenes/imagen_09.png" width="300" alt="Ilustración 9">
+<img src="imagenes/imagen_09.png" width="80%" alt="Ilustración 9">
 
 Pero se quería usar un formato más sencillo, que no complicara la estructura:
 
-<img src="imagenes/imagen_10.png" width="300" alt="Ilustración 10">
+<img src="imagenes/imagen_10.png" width="80%" alt="Ilustración 10">
 
 ¿Observas la diferencia a simple vista?
 
@@ -101,11 +101,11 @@ Markdown se distribuyó inicialmente como herramienta de publicación para blogs
 ## Algunos ejemplos de editores WYSIWYG
 Aquí puedes ver qué herramientas se utilizaban para crear páginas HTML, en orden: Microsoft FrontPage, Macromedia Dreamweaver y Netscape Composer.
 
-<img src="imagenes/imagen_11.png" width="300" alt="Ilustración 11">
+<img src="imagenes/imagen_11.png" width="80%" alt="Ilustración 11">
 
-<img src="imagenes/imagen_12.png" width="300" alt="Ilustración 12">
+<img src="imagenes/imagen_12.png" width="80%" alt="Ilustración 12">
 
-<img src="imagenes/imagen_13.png" width="300" alt="Ilustración 13">
+<img src="imagenes/imagen_13.png" width="80%" alt="Ilustración 13">
 
 ## ¿Por qué Markdown si ya existían editores de HTML?
 Este punto es muy interesante, porque llegados a este punto, ya teníamos las herramientas “traductoras” del texto que tomaban por un lado el texto que escribía el usuario y lo convertía a código HTML para publicarlo en la web.
@@ -126,11 +126,11 @@ Markdown propuso otra solución: en lugar de utilizar un editor visual complejo,
 
 **Ventaja**: No necesito un editor complejo, cualquier editor de texto sencillo sirve para crear y editar ficheros Markdown.
 
-<img src="imagenes/imagen_14.png" width="300" alt="Ilustración 14">
+<img src="imagenes/imagen_14.png" width="80%" alt="Ilustración 14">
 
 Aquí puedes ver las diferencias entre usar un editor HTML y trabajar en formato Markdown, debes tener en cuenta que el editor está orientado a crear páginas web y un sitio completo (un CMS es una evolución natural de este tipo de editores en la nube), pero Markdown está enfocado en crear contenido y convertirlo a HTML para que se pueda leer en Internet de manera sencilla:
 
-<img src="imagenes/imagen_15.png" width="300" alt="Ilustración 15">
+<img src="imagenes/imagen_15.png" width="80%" alt="Ilustración 15">
 
 **Revisar:** Un CMS no es exactamente una evolución de los editores WYSIWYG. Es un sistema para gestionar y publicar contenido, que puede incorporar un editor visual.
 
@@ -146,7 +146,7 @@ En aquella época coexistían dos enfoques:
 
 Se puede ver el proceso de conversión:
 
-<img src="imagenes/imagen_16.png" width="300" alt="Ilustración 16">
+<img src="imagenes/imagen_16.png" width="80%" alt="Ilustración 16">
 
 El proceso era automático, el usuario escribía el contenido y se generaba el fichero en HTML sin intervención del usuario.
 
@@ -156,26 +156,26 @@ Revisar: El sistema convertía automáticamente el contenido Markdown en HTML pa
 
 **Tarea**: Abre el archivo README.md del repositorio. Compara las opciones Code y Preview. ¿Dónde puedes ver las marcas originales de Markdown? ¿Dónde se representa el HTML generado? ¿Qué ocurre al consultar el código fuente de la página desde el navegador?
 
-<img src="imagenes/imagen_17.png" width="300" alt="Ilustración 17">
+<img src="imagenes/imagen_17.png" width="80%" alt="Ilustración 17">
 
 ## Formatos previos a Markdown
 Markdown no fue el primer lenguaje que permitió escribir documentos estructurados. Antes existían diversas soluciones, cada una con sus propias características.
 
-<img src="imagenes/imagen_18.png" width="300" alt="Ilustración 18">
+<img src="imagenes/imagen_18.png" width="80%" alt="Ilustración 18">
 
 **Nota:** Markdown no sustituyó a estos lenguajes porque fueran incorrectos u obsoletos, de hecho, todavía se utilizan algunos de ellos. Su éxito se debió principalmente a encontrar un buen equilibrio entre sencillez, legibilidad y capacidad de conversión.
 
 Ejemplo: Al escribir un correo en texto plano, los usuarios añadían caracteres para expresar formato:
 
-<img src="imagenes/imagen_19.png" width="300" alt="Ilustración 19">
+<img src="imagenes/imagen_19.png" width="80%" alt="Ilustración 19">
 
 Markdown utilizó algunas de las convenciones de los usuarios y creó otras nuevas:
 
-<img src="imagenes/imagen_20.png" width="300" alt="Ilustración 20">
+<img src="imagenes/imagen_20.png" width="80%" alt="Ilustración 20">
 
 La siguiente imagen puede ayudarte a entender el objetivo de cada uno: **Markdown** ayuda a escribir y formatear, **HTML** ayuda a escribir para la web y **CSS** ayuda al diseño del código HTML.
 
-<img src="imagenes/imagen_21.png" width="300" alt="Ilustración 21">
+<img src="imagenes/imagen_21.png" width="80%" alt="Ilustración 21">
 
 **Importante:**
 
@@ -185,27 +185,27 @@ La siguiente imagen puede ayudarte a entender el objetivo de cada uno: **Markdow
 
 **Nota:** CSS no es un lenguaje de marcado ni un lenguaje de programación de propósito general. Es un lenguaje declarativo de estilos.
 
-<img src="imagenes/imagen_22.png" width="300" alt="Ilustración 22">
+<img src="imagenes/imagen_22.png" width="80%" alt="Ilustración 22">
 
 **Nota:** Observa la diferencia entre lenguaje de marcado, sencillo o complejo y lenguaje de estilos (CSS no utiliza marcas para delimitar contenido), en el último caso, no hay contenido que marcar, sólo son definiciones de diseño para el contenido HTML.
 
 ## ¿Qué problemas resuelve Markdown?
 Lo vemos desde la perspectiva de alguien que quiere publicar una página web y debe usar etiquetas:
 
-<img src="imagenes/imagen_23.png" width="300" alt="Ilustración 23">
+<img src="imagenes/imagen_23.png" width="80%" alt="Ilustración 23">
 
 ## Sintaxis y marcas de Markdown
 Markdown no utiliza etiquetas como HTML (`<h1>`, `<p>`, etc.), sino marcas de formato que un conversor interpreta para generar HTML (es un proceso posterior que genera HTML que el usuario no ve)
 
-<img src="imagenes/imagen_24.png" width="300" alt="Ilustración 24">
+<img src="imagenes/imagen_24.png" width="80%" alt="Ilustración 24">
 
 Algunas etiquetas HTML que puedes usar en GitHub:
 
-<img src="imagenes/imagen_25.png" width="300" alt="Ilustración 25">
+<img src="imagenes/imagen_25.png" width="80%" alt="Ilustración 25">
 
 Etiquetas restringidas en Markdown en GitHub:
 
-<img src="imagenes/imagen_26.png" width="300" alt="Ilustración 26">
+<img src="imagenes/imagen_26.png" width="80%" alt="Ilustración 26">
 
 GitHub también filtra y sanea el HTML generado, por lo que aceptar una etiqueta durante el análisis de Markdown no garantiza que se conserve en el resultado visible.
 
