@@ -229,4 +229,4 @@ Copia el siguiente código en alguno de los visores de Markdown online y comprue
 
 > Opcional: Investiga GitHub Flavored Markdown
 
-## [Repaso examen](https://chatgpt.com/share/6af45a5a-9f2c-83eb-9eaa-ac5162c8a65b)
+#### [Repaso examen](https://chatgpt.com/share/6af45a5a-9f2c-83eb-9eaa-ac5162c8a65b)
