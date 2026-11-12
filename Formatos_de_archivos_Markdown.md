@@ -1,4 +1,4 @@
-# Una breve introducción a Markdown
+# Introducción a Markdown
 
 ![Ilustración 1](imagenes/imagen_01.png)
 
