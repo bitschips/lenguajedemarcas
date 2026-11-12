@@ -26,13 +26,9 @@ Inicialmente, Markdown se distribuyó como una herramienta escrita en Perl que p
 ![Ilustración 2](imagenes/imagen_02.png)
 
 Por tanto, **Markdown no surgió para hacer posible la publicación de blogs sin conocimientos de programación**, algo que Blogger ya facilitaba, sino para ofrecer una alternativa más cómoda, legible y flexible a la escritura directa en HTML.
-
 - **Antecedentes** **(2003)**: HTML, Setext, Textile, los sistemas wiki y los correos electrónicos en texto plano aportan distintas ideas de marcado.
-
 - **Nacimiento de Markdown** **(2004):** ****Publicación versiones iniciales, lanzamiento de Markdown 1.0 en agosto.
-
 - **Finales de los 2004**, se hace muy popular: Servicios como GitHub incorporan Markdown para documentación, archivos README.md
-
 - **CommonMark** **(2014):** Se desarrolla una especificación más precisa para reducir las diferencias entre implementaciones de Markdown.
 
 ![Ilustración 3](imagenes/imagen_03.png)
@@ -40,14 +36,12 @@ Por tanto, **Markdown no surgió para hacer posible la publicación de blogs sin
 CommonMark es una especificación de Markdown creada en 2014 para establecer reglas claras y comunes sobre cómo interpretar los documentos Markdown, mejorando la especificación original de 20024.
 
 Markdown evoluciona hasta nuestros días:
-
 ![Ilustración 4](imagenes/imagen_04.png)
 
 Características Markdown original y versiones Github GFM:
-
 ![Ilustración 5](imagenes/imagen_05.png)
 
-**Actualmente:** ****Markdown se utiliza en documentación de software, repositorios, cuadernos de notas, sistemas de publicación, herramientas de desarrollo y aplicaciones de IA.
+**Actualmente:** Markdown se utiliza en documentación de software, repositorios, cuadernos de notas, sistemas de publicación, herramientas de desarrollo y aplicaciones de IA.
 
 Su principal aportación consistió en separar la escritura del contenido de su representación final en una página web.
 
@@ -58,13 +52,10 @@ Su principal aportación consistió en separar la escritura del contenido de su 
 En aquel tiempo, una persona que quería publicar un artículo en Internet tenía principalmente dos opciones:
 
 - Escribir HTML: conocer las etiquetas necesarias para crear títulos, párrafos, enlaces y listas.
-
   - Inconveniente: Debe conocer las etiquetas y es lento de formatear.
-
 - Utilizar un editor visual (WYSIWYG): escribir y dar formato al contenido de forma parecida a un procesador de textos, aunque el HTML generado podía resultar difícil de modificar.
 
   - Eran editores que te permitían escribir texto y convertirlo a HTML
-
   - Uno de los más utilizados era Dreamweaver y otros como:
 
 ![Ilustración 8](imagenes/imagen_08.png)
@@ -74,7 +65,6 @@ Ambas opciones funcionaban, pero había un problema: la estructura técnica del 
 Ejemplo: imaginemos que en 2003 un profesor quiere publicar lo siguiente:
 
 - Mis apuntes de informática
-
 - Hoy aprenderemos HTML y sus principales características.
 
 Para hacerlo directamente en HTML, podría escribir:
@@ -94,15 +84,11 @@ El contenido se entiende perfectamente sin necesidad de convertirlo en página w
 Los creadores fueron:
 
 John Gruber:
-
 - Periodista tecnológico, escritor y desarrollador estadounidense, creador del blog Daring Fireball.
-
 - Ideó Markdown y programó la primera herramienta de conversión a HTML, utilizando el lenguaje Perl.
-
+  
 Aaron Swartz (1986–2013):
-
 - Programador y activista de Internet, conocido por su defensa del acceso libre al conocimiento.
-
 - Colaboró en el diseño y las pruebas de Markdown, y desarrolló herramientas para la conversión de HTML a texto.
 
 Su objetivo no era reemplazar HTML, sino conseguir que los autores pudieran escribir documentos estructurados sin preocuparse continuamente por sus etiquetas.
@@ -131,18 +117,14 @@ No es imprescindible pasar un archivo .txt por un editor HTML para publicarlo: u
 Los editores WYSIWYG resolvían el problema de crear páginas web sin escribir manualmente HTML, pero tenían algunas limitaciones:
 
 - Podían generar código HTML innecesariamente complejo >> tiempo de carga mayor
-
 - En ocasiones, el resultado visual variaba entre navegadores.
-
 - Algunos requerían instalar software específico.
-
 - El autor podía perder el control directo sobre el código generado.
-
 - Para publicar artículos sencillos, ofrecían mucha complejidad.
 
 Markdown propuso otra solución: en lugar de utilizar un editor visual complejo, escribir documentos sencillos en texto plano, comprensibles para cualquier persona y convertibles automáticamente a HTML.
 
-Ventaja: No necesito un editor complejo, cualquier editor de texto sencillo sirve para crear y editar ficheros Markdown.
+**Ventaja**: No necesito un editor complejo, cualquier editor de texto sencillo sirve para crear y editar ficheros Markdown.
 
 ![Ilustración 14](imagenes/imagen_14.png)
 
@@ -150,7 +132,7 @@ Aquí puedes ver las diferencias entre usar un editor HTML y trabajar en formato
 
 ![Ilustración 15](imagenes/imagen_15.png)
 
-**Revisar:** ****Un CMS no es exactamente una evolución de los editores WYSIWYG. Es un sistema para gestionar y publicar contenido, que puede incorporar un editor visual.
+**Revisar:** Un CMS no es exactamente una evolución de los editores WYSIWYG. Es un sistema para gestionar y publicar contenido, que puede incorporar un editor visual.
 
 ## ¿Cuál era el proceso de publicación en Blogger?
 Tu experiencia con Blogger es correcta y permite aclarar un aspecto importante de la historia de Markdown: en 2004 no era necesario conocer HTML ni utilizar Markdown para publicar en un blog, de hecho, fue un punto de inflexión, democratizando la publicación web (cualquiera podía hacerlo sin conocimientos de HTML).
@@ -160,7 +142,6 @@ Blogger ya permitía escribir artículos desde una interfaz web (podemos hablar 
 En aquella época coexistían dos enfoques:
 
 - Blogger: escribías el artículo en la plataforma, utilizabas sus herramientas de edición y pulsabas “Publicar” y listo.
-
 - Markdown con Movable Type o Blosxom: escribías el contenido utilizando una sintaxis de texto plano y un complemento lo convertía automáticamente en HTML durante el proceso de publicación.
 
 Se puede ver el proceso de conversión:
@@ -182,7 +163,7 @@ Markdown no fue el primer lenguaje que permitió escribir documentos estructurad
 
 ![Ilustración 18](imagenes/imagen_18.png)
 
-**Nota:** ****Markdown no sustituyó a estos lenguajes porque fueran incorrectos u obsoletos, de hecho, todavía se utilizan algunos de ellos. Su éxito se debió principalmente a encontrar un buen equilibrio entre sencillez, legibilidad y capacidad de conversión.
+**Nota:** Markdown no sustituyó a estos lenguajes porque fueran incorrectos u obsoletos, de hecho, todavía se utilizan algunos de ellos. Su éxito se debió principalmente a encontrar un buen equilibrio entre sencillez, legibilidad y capacidad de conversión.
 
 Ejemplo: Al escribir un correo en texto plano, los usuarios añadían caracteres para expresar formato:
 
@@ -199,9 +180,7 @@ La siguiente imagen puede ayudarte a entender el objetivo de cada uno: **Markdow
 **Importante:**
 
 - Markdown: lenguaje de marcado ligero para escribir documentos estructurados de forma sencilla y legible.
-
 - HTML: lenguaje de marcado para definir la estructura y el significado del contenido de las páginas web.
-
 - CSS: lenguaje de hojas de estilo para controlar la apariencia y distribución visual de páginas web.
 
 **Nota:** ****CSS no es un lenguaje de marcado ni un lenguaje de programación de propósito general. Es un lenguaje declarativo de estilos.
