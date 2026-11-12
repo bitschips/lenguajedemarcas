@@ -213,8 +213,11 @@ GitHub también filtra y sanea el HTML generado, por lo que aceptar una etiqueta
 
 **Recomendación final:** Distingue entre la sintaxis básica de Markdown, las extensiones de GitHub (GFM) y las etiquetas HTML adicionales. Markdown puede funcionar de forma diferente según el programa que lo interprete.
 
-## Tareas:
-Copia el siguiente código en alguno de los visores de Markdown online y comprueba que funciona correctamente, incluye enlaces también con etiquetas HTML `<a href=””>Link</a>` y verifica que los enlaces funcionan.
+## Tareas
+1. Copia el siguiente código en alguno de los visores de Markdown online y comprueba que funciona correctamente, incluye enlaces también con etiquetas HTML `<a href=””>Link</a>` y verifica que los enlaces funcionan.
+2. Crea un resumen breve de las ventajas del formato Markdown en un fichero .md y súbelo a GitHub y comprueba que se visualiza correctamente.
+3. Crea la carpeta /imagenes y sube un par de ilustraciones generadas con IA sobre las ventajas de Markdown.
+4. Usa ChatGPT para que automáticamente se conecte a tu repositorio y amplíe las imágenes a un ancho de 80%.
 
 ## Referencias
 [Introducing Markdown](https://daringfireball.net/2004/03/introducing_markdown)
